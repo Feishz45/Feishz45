@@ -1,13 +1,13 @@
-<h1 align="center">Olá 👋, me chamo Luca</h1>
-<h3 align="center">Sou estudante de programação front-end</h3>
+<h1 align="center">Hey 👋, I'm Luca</h1>
+<h3 align="center">I am a student of front-end programming and Computer Maintenance and Support.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=feishz45&label=Profile%20views&color=0e75b6&style=flat" alt="feishz45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feishz45" alt="feishz45" /></a> </p>
 
-- 🌱 Eu estou aprendendo **sobre a programação Fron-End**
+- 🌱 With a lot of study comes a big responsibility.
 
-- 📫 Como me achar **luc.prog04@gmail.com**
+- 📫 How to find me: **luc.prog04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
