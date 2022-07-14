@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feishz45" alt="feishz45" /></a> </p>
 
-- 🌱 With a lot of study comes a big responsibility.
+- 🌱 With great code comes many bugs.
 
 - 📫 How to find me: **luc.prog04@gmail.com**
 
