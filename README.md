@@ -1,10 +1,5 @@
 <h1 align="center">Olá, sou o Luca</h1>
-<h3 align="center">I am a student of front-end programming and Computer Maintenance and Support.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=feishz45&label=Profile%20views&color=0e75b6&style=flat" alt="feishz45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feishz45" alt="feishz45" /></a> </p>
-
+<h3 align="center">Estudante de Engenharia de Computação.</h3>
 
 
 - 📫 me encontre por aqui: **luc.prog04@gmail.com**
